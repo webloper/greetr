@@ -1,0 +1,17 @@
+{
+    "name": "webloper/greetr",
+    "description": "Greetr - A simple Laravel package.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [{
+        "name": "Ravi Kumar",
+        "email": "webloper@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Webloper\\Greetr\\": "src/"
+        }
+    },
+    "require": {}
+}
